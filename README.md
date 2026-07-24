@@ -5,4 +5,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Hardik-parmar24/DSA-Practice/tree/master/0007-reverse-integer) |
+| [0507-perfect-number](https://github.com/Hardik-parmar24/DSA-Practice/tree/master/0507-perfect-number) |
 <!---LeetCode Topics End-->
