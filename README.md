@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Hardik-parmar24/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Hardik-parmar24/DSA-Practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Hardik-parmar24/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
+| [1332-remove-palindromic-subsequences](https://github.com/Hardik-parmar24/DSA-Practice/tree/master/1332-remove-palindromic-subsequences) |
 ## Sorting
 |  |
 | ------- |
@@ -50,4 +51,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Hardik-parmar24/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Hardik-parmar24/DSA-Practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Hardik-parmar24/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
+| [1332-remove-palindromic-subsequences](https://github.com/Hardik-parmar24/DSA-Practice/tree/master/1332-remove-palindromic-subsequences) |
 <!---LeetCode Topics End-->
