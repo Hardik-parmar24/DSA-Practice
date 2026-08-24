@@ -8,9 +8,6 @@ public:
         for(int j = 0; j < word2.size(); j++){
             ans2 += word2[j];
         }
-        if(ans1 == ans2){
-            return true;
-        }
-        return false;
+        return ans1 == ans2;
     }
 };
