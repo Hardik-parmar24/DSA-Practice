@@ -54,6 +54,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Hardik-parmar24/DSA-Practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Hardik-parmar24/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [1332-remove-palindromic-subsequences](https://github.com/Hardik-parmar24/DSA-Practice/tree/master/1332-remove-palindromic-subsequences) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Hardik-parmar24/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Hardik-parmar24/DSA-Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/Hardik-parmar24/DSA-Practice/tree/master/1768-merge-strings-alternately) |
+## Hash Table
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Hardik-parmar24/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Hardik-parmar24/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
